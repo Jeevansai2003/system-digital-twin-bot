@@ -1,0 +1,11 @@
+
+{
+  "thresholds": {
+    "cpu_percent": 80,
+    "ram_percent": 80,
+    "disk_percent": 90
+  },
+  "monitoring": {
+    "cpu_sample_seconds": 0.5
+  }
+}
